@@ -1,16 +1,15 @@
-## Hi there 👋
+Hey, I'm Ashwin Nair 
 
-<!--
-**nrashwin04/nrashwin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computer Science student with a focus on machine learning and data science.
+I enjoy building end-to-end ML projects — from training models to deploying them
+with clean interfaces people can actually use.
 
-Here are some ideas to get you started:
+Currently working on:
+->  Handwritten digit recognition (PyTorch + Streamlit)
+->  RAG chatbot for querying PDFs (LangChain + ChromaDB)
+-> Exploring NLP and computer vision projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm actively looking for ML/AI internship opportunities where I can contribute
+to real problems and keep learning fast.
+
+Let's connect → https://www.linkedin.com/in/nrashwin/
