@@ -5,8 +5,6 @@ I enjoy building end-to-end ML projects — from training models to deploying th
 with clean interfaces people can actually use.
 
 Currently working on:
-->  Handwritten digit recognition (PyTorch + Streamlit)
-->  RAG chatbot for querying PDFs (LangChain + ChromaDB)
 -> Exploring NLP and computer vision projects
 
 I'm actively looking for ML/AI internship opportunities where I can contribute
