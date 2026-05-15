@@ -118,15 +118,19 @@ MSc Computer Science student focused on Machine Learning and Data Science. I enj
 
 ## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=99999&color=FFFF00&center=true&vCenter=true&width=240&lines=GitHub+Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=nrashwin04&show_icons=true&theme=github_dark&title_color=FFFF00&icon_color=FFFF00&text_color=ffffff&border_color=30363d" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrashwin04&layout=compact&theme=github_dark&title_color=FFFF00&text_color=ffffff&border_color=30363d" />
-
-<br/>
-
+<!-- Profile summary card — confirmed working from your screenshot -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrashwin04&theme=github_dark" />
+
+<br/>
+
+<!-- Two smaller cards side by side — same stable vercel.app host -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrashwin04&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nrashwin04&theme=github_dark" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nrashwin04&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nrashwin04&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
@@ -144,7 +148,7 @@ MSc Computer Science student focused on Machine Learning and Data Science. I enj
 <img src="https://img.shields.io/badge/GitHub-nrashwin04-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=99999&color=FFFF00&center=true&vCenter=true&width=500&lines=Turning+ideas+into+intelligent+AI+applications+%E2%9C%A8" />
 
