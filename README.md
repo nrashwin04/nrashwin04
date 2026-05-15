@@ -134,26 +134,6 @@ OpenCV • Computer Vision • Python
 
 ---
 
-## Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nrashwin04&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nrashwin04&theme=github-compact&hide_border=true" />
-
-</div>
-
----
-
 ## Currently Learning
 
 ```text
