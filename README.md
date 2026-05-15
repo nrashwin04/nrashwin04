@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=MSc+Computer+Science+Student;AI+%7C+ML+%7C+NLP+%7C+Computer+Vision;Building+ML+Projects+That+People+Can+Actually+Use;Learning+By+Building+And+Shipping" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FFFF00&center=true&vCenter=true&width=700&lines=MSc+Computer+Science+Student;AI+%7C+ML+%7C+NLP+%7C+Computer+Vision;Building+ML+Projects+That+People+Can+Actually+Use;Learning+By+Building+And+Shipping" />
 
 </div>
 
