@@ -1,170 +1,153 @@
-# <div align="center">Ashwin Nair</div>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FFFF00&center=true&vCenter=true&width=700&lines=MSc+Computer+Science+Student;AI+%7C+ML+%7C+NLP+%7C+Computer+Vision;Building+ML+Projects+That+People+Can+Actually+Use;Learning+By+Building+And+Shipping" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=header&fontSize=0" />
+
+<!-- NAME — static, large, standalone -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=99999&color=FFFF00&center=true&vCenter=true&width=500&lines=Ashwin+Nair" />
+
+<br/>
+
+<!-- Taglines — cycling, separate from name -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=MSc+Computer+Science+%7C+AI+%26+ML;Building+ML+Projects+People+Can+Actually+Use;NLP+%7C+Computer+Vision+%7C+RAG+Systems;Learning+By+Building+And+Shipping+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-## About Me
-
-MSc Computer Science student focused on Machine Learning and Data Science.
-
-I enjoy building end to end ML applications from model training to deployment with interfaces people can actually interact with.
-
-Currently exploring:
-
-* NLP pipelines
-* Computer Vision
-* RAG systems
-* Explainable AI
-* ML deployment workflows
-
-I am actively looking for AI ML internship opportunities where I can contribute, improve rapidly, and work on meaningful problems.
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,flutter" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
-</p>
-
-### AI ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Deployment
-
-<p>
-<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace%20Spaces-111827?style=for-the-badge&logo=huggingface&logoColor=yellow" />
-<img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-## Featured Projects
-
 <div align="center">
 
-<a href="https://github.com/nrashwin04/mnist-digit-recognizer">
-<img src="https://img.shields.io/badge/MNIST%20Digit%20Recognizer-PyTorch%20CNN-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/>
-
-Interactive handwritten digit recognition system built using PyTorch CNN and Streamlit.
-
-Real time prediction • Probability visualization • Interactive canvas UI
-
-<br/>
-
-<a href="https://github.com/nrashwin04/explainable-ml-dashboard">
-<img src="https://img.shields.io/badge/Explainable%20ML%20Dashboard-Gradio%20App-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/>
-
-Dashboard for understanding ML predictions and feature importance.
-
-Explainability visualizations • Interactive dashboard • Gradio deployment
-
-<br/>
-
-<a href="https://github.com/nrashwin04/pdf-rag-chatbot">
-<img src="https://img.shields.io/badge/PDF%20RAG%20Chatbot-LangChain%20RAG-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/>
-
-RAG chatbot for querying PDFs using natural language.
-
-Semantic search • Vector embeddings • Grounded responses
-
-<br/>
-
-<a href="https://github.com/nrashwin04/Pose_Perfect">
-<img src="https://img.shields.io/badge/Pose%20Perfect-Computer%20Vision-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/>
-
-AI powered pose detection and posture analysis application.
-
-OpenCV • Computer Vision • Python
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=99999&color=FFFF00&center=true&vCenter=true&width=200&lines=About+Me" />
 
 </div>
 
----
+MSc Computer Science student focused on Machine Learning and Data Science. I enjoy building end-to-end ML applications — from model training to deployment — with interfaces people can actually interact with.
 
-## Currently Learning
+<div align="center">
 
 ```text
-NLP
-RAG Architectures
-FastAPI
-Computer Vision
-Model Deployment
-Explainable AI
+🔬 NLP Pipelines          🖼️  Computer Vision
+🔗 RAG Systems            🧠  Explainable AI
+🚀 ML Deployment          📦  End-to-End Apps
 ```
+
+</div>
+
+> 🎯 Actively looking for **AI/ML internship** opportunities — let's build something meaningful.
 
 ---
 
-## Connect With Me
+<div align="center">
+
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=99999&color=FFFF00&center=true&vCenter=true&width=200&lines=Tech+Stack" />
+
+</div>
 
 <div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,flutter" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<br><br>
+<img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface&logoColor=yellow" />
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-111827?style=for-the-badge&logo=google&logoColor=white" />
+<br><br>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+
+**Tools & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<br><br>
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradio-111827?style=for-the-badge&logo=gradio&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace%20Spaces-111827?style=for-the-badge&logo=huggingface&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+<br><br>
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=99999&color=FFFF00&center=true&vCenter=true&width=260&lines=Featured+Projects" />
+
+</div>
+
+<div align="center">
+
+| Project | Stack | Description |
+|---|---|---|
+| [🔢 MNIST Digit Recognizer](https://github.com/nrashwin04/mnist-digit-recognizer) | ![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=white) | Interactive handwritten digit recognition with real-time prediction and probability visualization |
+| [📊 Explainable ML Dashboard](https://github.com/nrashwin04/explainable-ml-dashboard) | ![Gradio](https://img.shields.io/badge/Gradio-111827?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP-111827?style=flat-square) | ML prediction explainability with feature importance visualizations |
+| [💬 PDF RAG Chatbot](https://github.com/nrashwin04/pdf-rag-chatbot) | ![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-111827?style=flat-square) | Query PDFs with natural language via semantic search and vector embeddings |
+| [🧘 Pose Perfect](https://github.com/nrashwin04/Pose_Perfect) | ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-111827?style=flat-square) | AI-powered real-time pose detection and posture analysis |
+| [🤏 Gesture Volume Control](https://github.com/nrashwin04/gesture-volume-control) | ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-111827?style=flat-square) | Control system volume by pinching fingers — scale-invariant landmark math + EMA smoothing |
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=99999&color=FFFF00&center=true&vCenter=true&width=280&lines=Currently+Learning" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=800&color=AAFFAA&center=true&vCenter=true&width=500&lines=NLP+%26+Transformer+Architectures;RAG+Systems+%26+Vector+Databases;FastAPI+%26+ML+Microservices;Advanced+Computer+Vision;Model+Deployment+%26+MLOps;Explainable+AI+%26+Interpretability" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=99999&color=FFFF00&center=true&vCenter=true&width=240&lines=GitHub+Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=nrashwin04&show_icons=true&theme=github_dark&title_color=FFFF00&icon_color=FFFF00&text_color=ffffff&border_color=30363d" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrashwin04&layout=compact&theme=github_dark&title_color=FFFF00&text_color=ffffff&border_color=30363d" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrashwin04&theme=github_dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=99999&color=FFFF00&center=true&vCenter=true&width=260&lines=Connect+With+Me" />
 
 <a href="https://www.linkedin.com/in/nrashwin/">
 <img src="https://img.shields.io/badge/LinkedIn-Ashwin%20Nair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://github.com/nrashwin04">
 <img src="https://img.shields.io/badge/GitHub-nrashwin04-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=99999&color=FFFF00&center=true&vCenter=true&width=500&lines=Turning+ideas+into+intelligent+AI+applications+%E2%9C%A8" />
 
-<div align="center">
-
-Turning ideas into intelligent AI applications
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=100&section=footer&fontSize=0" />
 
 </div>
