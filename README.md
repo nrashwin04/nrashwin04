@@ -77,7 +77,7 @@ MSc Computer Science student focused on Machine Learning and Data Science. I enj
 <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Gradio-111827?style=for-the-badge&logo=gradio&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace%20Spaces-111827?style=for-the-badge&logo=huggingface&logoColor=yellow" />
-<img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-111827?style=for-the-badge&logo=github&logoColor=white" />
 <br><br>
 
 </div>
@@ -99,6 +99,7 @@ MSc Computer Science student focused on Machine Learning and Data Science. I enj
 | [💬 PDF RAG Chatbot](https://github.com/nrashwin04/pdf-rag-chatbot) | ![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-111827?style=flat-square) | Query PDFs with natural language via semantic search and vector embeddings |
 | [🧘 Pose Perfect](https://github.com/nrashwin04/Pose_Perfect) | ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-111827?style=flat-square) | AI-powered real-time pose detection and posture analysis |
 | [🤏 Gesture Volume Control](https://github.com/nrashwin04/gesture-volume-control) | ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-111827?style=flat-square) | Control system volume by pinching fingers — scale-invariant landmark math + EMA smoothing |
+| [🚗 Car Road Tax & EMI Calculator](https://github.com/nrashwin04/car-emi-calculator) | ![HTML](https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-111827?style=flat-square&logo=javascript&logoColor=white) | Indian on-road price calculator with state-wise road tax, live EMI, amortization schedule — deployed on GitHub Pages |
 
 </div>
 
