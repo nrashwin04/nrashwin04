@@ -29,11 +29,6 @@ MSc Computer Science student focused on Machine Learning and Data Science. I enj
 🔗 RAG Systems            🧠  Explainable AI
 🚀 ML Deployment          📦  End-to-End Apps
 ```
-
-</div>
-
-> 🎯 Actively looking for **AI/ML internship** opportunities — let's build something meaningful.
-
 ---
 
 <div align="center">
@@ -46,15 +41,11 @@ MSc Computer Science student focused on Machine Learning and Data Science. I enj
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,typescript" />
 
-**Frontend**
+**Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,flutter" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,fastapi,nodejs" />
 
 **AI / ML**
 
@@ -68,16 +59,15 @@ MSc Computer Science student focused on Machine Learning and Data Science. I enj
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
 
 **Tools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase" />
 <br><br>
 <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Gradio-111827?style=for-the-badge&logo=gradio&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace%20Spaces-111827?style=for-the-badge&logo=huggingface&logoColor=yellow" />
-<img src="https://img.shields.io/badge/GitHub%20Pages-111827?style=for-the-badge&logo=github&logoColor=white" />
 <br><br>
 
 </div>
@@ -94,12 +84,17 @@ MSc Computer Science student focused on Machine Learning and Data Science. I enj
 
 | Project | Stack | Description |
 |---|---|---|
+| [🏢 Nippon Toyota Dashboard](https://github.com/nrashwin04/nippon-incentive-dashboard) | ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=white) | Full-stack role-based internal dashboard with real-time payout calculations, progressive incentive slabs, and live leaderboards |
+| [🚨 AccidentEye](https://github.com/nrashwin04/accidenteye) | ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-111827?style=flat-square) | Real-time traffic accident detection system utilizing deep learning and OpenCV to monitor video feeds |
+| [📰 Fake News Detector](https://github.com/nrashwin04/fake-news-detector) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=flat-square&logo=scikitlearn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-111827?style=flat-square) | Natural Language Processing model to classify news articles as authentic or fake using text vectorization and linguistic patterns |
+| [📸 License Plate Reader](https://github.com/nrashwin04/license-plate-reader) | ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-111827?style=flat-square) | Automated Number Plate Recognition (ANPR) system using computer vision to detect, crop, and read text from vehicle plates |
+| [📝 AI Study Notes Gen](https://github.com/nrashwin04/ai-study-notes-generator) | ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat-square) | Automatically summarizes lecture materials and generates structured study notes and flashcards using Large Language Models |
 | [🔢 MNIST Digit Recognizer](https://github.com/nrashwin04/mnist-digit-recognizer) | ![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=white) | Interactive handwritten digit recognition with real-time prediction and probability visualization |
 | [📊 Explainable ML Dashboard](https://github.com/nrashwin04/explainable-ml-dashboard) | ![Gradio](https://img.shields.io/badge/Gradio-111827?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP-111827?style=flat-square) | ML prediction explainability with feature importance visualizations |
 | [💬 PDF RAG Chatbot](https://github.com/nrashwin04/pdf-rag-chatbot) | ![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-111827?style=flat-square) | Query PDFs with natural language via semantic search and vector embeddings |
 | [🧘 Pose Perfect](https://github.com/nrashwin04/Pose_Perfect) | ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-111827?style=flat-square) | AI-powered real-time pose detection and posture analysis |
 | [🤏 Gesture Volume Control](https://github.com/nrashwin04/gesture-volume-control) | ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-111827?style=flat-square) | Control system volume by pinching fingers — scale-invariant landmark math + EMA smoothing |
-| [🚗 Car Road Tax & EMI Calculator](https://github.com/nrashwin04/car-emi-calculator) | ![HTML](https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-111827?style=flat-square&logo=javascript&logoColor=white) | Indian on-road price calculator with state-wise road tax, live EMI, amortization schedule — deployed on GitHub Pages |
+| [🚗 Car Road Tax & EMI Calculator](https://github.com/nrashwin04/car-emi-calculator) | ![HTML](https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-111827?style=flat-square&logo=javascript&logoColor=white) | Indian on-road price calculator with state-wise road tax, live EMI, amortization schedule |
 
 </div>
 
@@ -119,12 +114,12 @@ MSc Computer Science student focused on Machine Learning and Data Science. I enj
 
 ## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=99999&color=FFFF00&center=true&vCenter=true&width=240&lines=GitHub+Stats" />
 
-<!-- Profile summary card — confirmed working from your screenshot -->
+<!-- Profile summary card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrashwin04&theme=github_dark" />
 
 <br/>
 
-<!-- Two smaller cards side by side — same stable vercel.app host -->
+<!-- Two smaller cards side by side -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrashwin04&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nrashwin04&theme=github_dark" />
 
